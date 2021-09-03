@@ -1,0 +1,28 @@
+.body_background{
+    background-image: url("Canvas\ Bg.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:aliceblue;
+    font-size: 40px;
+}
+#myCanvas{
+    border-width:20px;
+    background-color: lightpink;
+    border-style: ridge;
+}
+button{
+    background-color: cornsilk;
+    color:hotpink;
+    font-size: 16px;
+    border: none;
+    padding: 10px 42px;
+}
+input{
+    margin-right:20px;
+}
+body{
+    cursor: pointer;
+}
